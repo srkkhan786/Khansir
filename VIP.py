@@ -156,6 +156,9 @@ async def attack(update: Update, context: CallbackContext):
         f"*⏳ Countdown: {duration} seconds*\n"
         f"*🔥 Get ready for pure devastation. 💥*\n"
         f"*⚠️ You’ve just signed your death warrant. ⚠️*"
+        f"#😈𝗔𝗕 𝗛𝗢𝗚𝗔 𝗠𝗔𝗨𝗧 𝗞𝗔 𝗞𝗛𝗘𝗟💥\n"
+        f"* तो शायरी कुछ ऐसी है 💀\n"
+        f"* हवा चली पत्ते हिले\nमुट्ठ मारी टट्टे हिले\n\n𝓥𝓲𝓹 𝓤𝓼𝓮𝓻 𝓸𝓯  @OWNERSRK\n"
     ),
     parse_mode='Markdown'
 )
